@@ -47,20 +47,6 @@ export default {
   width: 25%;
   margin: 10px auto;
 }
-/* 
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-  text-decoration: none;
-}
-
-#nav a:hover{
-  text-decoration: underline;
-}
-
-#nav a.router-link-exact-active {
-  color: orange;
-} */
  .nav-item
     {
         color:white;
